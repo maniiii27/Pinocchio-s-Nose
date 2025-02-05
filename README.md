@@ -26,7 +26,7 @@ Customizable Controls: User-friendly interface for personalized content moderati
 Supports audio file input
 Converts speech to text
 Maintains extensive profanity database
-Replaces offensive content with "beep" sounds or custom censoring
+Replaces offensive content with "beep" sounds or custom censoring.
 
 ### Mission
 Promoting responsible technology use and creating safer digital communities by providing intelligent, user-centric content moderation tools.
